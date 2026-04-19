@@ -1,3 +1,5 @@
-# Var_keeper
+п»ї# Var_keeper
 
-Приложение позволяет сохранить переменную и затем прочитать её значение при помощи http запроса.
+![Push Stage version to DockerHub](https://github.com/Kozeniro/var_keeper/actions/workflows/staging.yml/badge.svg) ![Docker Image Version](https://img.shields.io/docker/v/peter08q/var_keeper?sort=date&label=build%20for%20commit)
+
+РџСЂРёР»РѕР¶РµРЅРёРµ РїРѕР·РІРѕР»СЏРµС‚ СЃРѕС…СЂР°РЅРёС‚СЊ РїРµСЂРµРјРµРЅРЅСѓСЋ Рё Р·Р°С‚РµРј РїСЂРѕС‡РёС‚Р°С‚СЊ РµС‘ Р·РЅР°С‡РµРЅРёРµ РїСЂРё РїРѕРјРѕС‰Рё http Р·Р°РїСЂРѕСЃР°.
